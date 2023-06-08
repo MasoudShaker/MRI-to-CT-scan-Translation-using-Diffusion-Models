@@ -99,7 +99,6 @@ def main():
     data = load_source_data_for_domain_translation(
         batch_size=args.batch_size,
         image_size=args.image_size,
-        # classes=source
     )
 
     for i, (batch, extra) in enumerate(data):
@@ -215,7 +214,7 @@ def create_argparser():
     parser.add_argument(
         "--val_dir",
         type=str,
-        default='./ILSVRC2012_img_val/',
+        default='./MRs_CTs/',
         help="The local directory containing ImageNet validation dataset, "
              "containing filenames like ILSVRC2012_val_000XXXXX.JPG."
     )
