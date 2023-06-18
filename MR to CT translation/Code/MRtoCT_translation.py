@@ -35,7 +35,7 @@ def copy_imagenet_dataset(val_dir, classes):
     Finds the validation images for the given classes from val_dir,
     and copies them over to ./experiments/imagenet for translation.
     """
-    base_dir = os.path.join(os.getcwd(), "experiments", "MR_CT")
+    base_dir = os.path.join(os.getcwd(), "experiments", "MR_sCT")
     Path(base_dir).mkdir(parents=True, exist_ok=True)
     for source_label in classes:
         logger.log(f"Copying image files for class {source_label}.")
@@ -190,7 +190,7 @@ def create_argparser():
     parser.add_argument(
         "--model_path",
         type=str,
-        default="./models/imagenet/256x256_diffusion.pt",
+        default="./MR_CT_trained_model_whole_data/openai-2023-06-06-23-45-10-237503/model000810.pt",
         help="Path to the diffusion model weights."
     )
     parser.add_argument(
