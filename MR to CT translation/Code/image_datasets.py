@@ -76,7 +76,7 @@ def load_source_data_for_domain_translation(
         *,
         batch_size,
         image_size,
-        data_dir="./experiments/MR_CT",
+        data_dir="./all_MR_CTs_together_copy",
         in_channels=3,
         class_cond=True
 ):
