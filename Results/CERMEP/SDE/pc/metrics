@@ -1,0 +1,12 @@
+pc
+average time: 144.81 seconds
+
+average ssim: 0.93
+average psnr: 32.31
+average mse: 10.79
+average mae: 258.62
+
+max ssim: 0.96
+max psnr: 36.92
+min mse: 3.33
+min mae: 145.72

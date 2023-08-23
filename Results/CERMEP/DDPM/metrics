@@ -1,0 +1,12 @@
+ddpm
+average time: 12.11 seconds
+
+average ssim: 0.96
+average psnr: 33.88
+average mse: 8.62
+average mae: 194.60
+
+max ssim: 0.99
+max psnr: 39.59
+min mse: 1.80
+min mae: 73.76
