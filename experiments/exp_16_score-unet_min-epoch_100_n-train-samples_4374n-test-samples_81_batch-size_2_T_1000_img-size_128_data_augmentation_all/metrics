@@ -1,4 +1,0 @@
-# average 
-ode: ssim: 0.21, psnr: 12.38
-em: ssim, 0.45, psnr: 14.03
-em: ssim, 0.56, psnr: 15.37
