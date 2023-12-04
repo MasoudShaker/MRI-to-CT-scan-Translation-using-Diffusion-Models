@@ -19,6 +19,7 @@ better than the best results of methods based on adversarial generative networks
 PSNR 0.96), but due to lack of use in previous researches, it is not comparable.
 Figures below are a sample output of the best method, DDPM, for Gold Atlas, CERMEP and Brain tumor MR CT datasets respectively:
 ![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/e305cee4-e278-49c9-82ac-db25c8ad475e)
+![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/3cc47965-20b7-4ecd-b278-bea92ba101de)
 ![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/36de1677-1ae4-4214-972e-a8deefc5815a)
 Tables below show the results of SSIM and PSNR for the 5 diffusion model methods on 3 datasets respectively:
 ![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/c42f46f9-b8ab-4df0-a788-1405632b19e2)
