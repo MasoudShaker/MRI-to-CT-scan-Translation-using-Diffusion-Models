@@ -18,6 +18,4 @@ better than the best results of methods based on adversarial generative networks
 28.45. Also, the results on the CERMEP-IDB-MRXFDG dataset are also very good (SSIM 33.88,
 PSNR 0.96), but due to lack of use in previous researches, it is not comparable.
 
-In this project, I did an image to image translation task, specifically MRI to CT scan translation.
-
-Reference: https://github.com/QingLyu0828/diffusion_mri_to_ct_conversion
+Reference of implementation: https://github.com/QingLyu0828/diffusion_mri_to_ct_conversion
