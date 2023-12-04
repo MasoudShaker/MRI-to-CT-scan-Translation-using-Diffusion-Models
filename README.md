@@ -1,4 +1,4 @@
-![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/07de3b25-e248-462e-a8a8-61b2115384a3)# Generating CT images based on magnetic resonance images
+# Generating CT images based on magnetic resonance images
 MR to CT translation has become very important in research in recent years. The importance of this
 translation is that instead of irradiating harmful rays to the patient in order to obtain a real CT scan,
 we can obtain a harmless MRI from the patient and convert it into a synthetic CT scan. In the past
@@ -20,6 +20,7 @@ PSNR 0.96), but due to lack of use in previous researches, it is not comparable.
 Figures below are a sample output of the best method, DDPM, for Gold Atlas, CERMEP and Brain tumor MR CT datasets respectively:
 ![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/e305cee4-e278-49c9-82ac-db25c8ad475e)
 ![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/36de1677-1ae4-4214-972e-a8deefc5815a)
+![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/07de3b25-e248-462e-a8a8-61b2115384a3)
 Tables below show the results of SSIM and PSNR for the 5 diffusion model methods on 3 datasets respectively:
 ![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/c42f46f9-b8ab-4df0-a788-1405632b19e2)
 
