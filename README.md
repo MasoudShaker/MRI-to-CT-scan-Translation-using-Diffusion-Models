@@ -17,7 +17,9 @@ dataset, which were obtained by DDPM method as 0.97 and 31.93, respectively. The
 better than the best results of methods based on adversarial generative networks, which are 0.93 and
 28.45. Also, the results on the CERMEP-IDB-MRXFDG dataset are also very good (SSIM 33.88,
 PSNR 0.96), but due to lack of use in previous researches, it is not comparable.
+
 Figures below are a sample output of the best method, DDPM, for Gold Atlas, CERMEP and Brain tumor MR CT datasets respectively:
+
 ![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/e305cee4-e278-49c9-82ac-db25c8ad475e)
 ![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/3cc47965-20b7-4ecd-b278-bea92ba101de)
 ![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/36de1677-1ae4-4214-972e-a8deefc5815a)
