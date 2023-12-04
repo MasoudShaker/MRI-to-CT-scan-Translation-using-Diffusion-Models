@@ -1,5 +1,4 @@
 # Generating CT images based on magnetic resonance images
-using deep learning methods for radiotherapy purposes
 MR to CT translation has become very important in research in recent years. The importance of this
 translation is that instead of irradiating harmful rays to the patient in order to obtain a real CT scan,
 we can obtain a harmless MRI from the patient and convert it into a synthetic CT scan. In the past
