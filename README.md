@@ -17,5 +17,10 @@ dataset, which were obtained by DDPM method as 0.97 and 31.93, respectively. The
 better than the best results of methods based on adversarial generative networks, which are 0.93 and
 28.45. Also, the results on the CERMEP-IDB-MRXFDG dataset are also very good (SSIM 33.88,
 PSNR 0.96), but due to lack of use in previous researches, it is not comparable.
+Tables below show the results of SSIM and PSNR for the 5 diffusion model methods on 3 datasets respectively:
+![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/c42f46f9-b8ab-4df0-a788-1405632b19e2)
+
+![image](https://github.com/MasoudShaker/MRI-to-CT-scan-Translation-using-Diffusion-Models/assets/79832680/57ab6319-4146-45f7-ac14-a2e1c658c2bf)
+
 
 Reference of implementation: https://github.com/QingLyu0828/diffusion_mri_to_ct_conversion
